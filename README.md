@@ -14,7 +14,7 @@ Spam any text you input or from a file. Just run the program, choose the type of
 
 1. Clone or Download this repository
 
-    `git clone `
+    `git clone https://github.com/KeviTheDuck/SpamPy`
 
 2. Navigate to the directory
 
