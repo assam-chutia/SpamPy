@@ -9,9 +9,6 @@ Spam any text you input or from a file. Just run the program, choose the type of
 ## Installation ⚙️ 
 
 
-
-### For Linux :
-
 1. Clone or Download this repository
 
     `git clone https://github.com/KeviTheDuck/SpamPy`
@@ -28,17 +25,7 @@ Spam any text you input or from a file. Just run the program, choose the type of
     
     `python3 spam.py`
 
-### For Windows :
 
-1. Download the repository
-
-2. Install the requirements:
- 
-   * Open cmd prompt
-   * Type 
-     
-     `pip install ursina`
-3. Run the spam.py 
 
     
 ## More stuff
